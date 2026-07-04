@@ -3,3 +3,5 @@ Edited
 Added a very cool feature in the branch of "feature/cool_feature"
 4th Edit!
 Added a cool feature
+4th Edit!
+Hey, we have just fixed the bug!
