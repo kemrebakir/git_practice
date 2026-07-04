@@ -1,3 +1,4 @@
 hello!
 Edited
 4th Edit!
+Hey, we have just fixed the bug!
